@@ -12,3 +12,5 @@ Common techniques in quantitative trading
 5/ feature importance and understanding
 
 6/ feature creation based on fractional differentiation
+
+Note this is predicting one scalar, instead of vector, which means this is projecting a single value at a future time, not predicting a future period.  
