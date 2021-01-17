@@ -13,4 +13,4 @@ Common techniques in quantitative trading
 
 6/ feature creation based on fractional differentiation
 
-Note this is predicting one scalar, instead of vector, which means this is projecting a single value at a future time, not predicting a future period.  
+This offers short-term high-accuracy forecast, which can be applied to multiple domains.
